@@ -1,0 +1,14 @@
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\bin\Debug\net7.0\discord_bot_c#.exe
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\bin\Debug\net7.0\discord_bot_c#.deps.json
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\bin\Debug\net7.0\discord_bot_c#.runtimeconfig.json
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\bin\Debug\net7.0\discord_bot_c#.dll
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\bin\Debug\net7.0\discord_bot_c#.pdb
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\discord_bot_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\discord_bot_c#.AssemblyInfoInputs.cache
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\discord_bot_c#.AssemblyInfo.cs
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\discord_bot_c#.csproj.CoreCompileInputs.cache
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\discord_bot_c#.dll
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\refint\discord_bot_c#.dll
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\discord_bot_c#.pdb
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\discord_bot_c#.genruntimeconfig.cache
+C:\Users\zemad\OneDrive\Desktop\discord_bot_c#\obj\Debug\net7.0\ref\discord_bot_c#.dll
